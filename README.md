@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1>SwordOfSouls</h1>
   <img src="https://i.imgur.com/rSmT3uP.png" width="100"/>
+  <h1></h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 <h3>### :hammer_and_wrench: Languages and Tools : </h3>
