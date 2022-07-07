@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#" **alt="c#" width="40" height="40"/>&nbsp;
   <br><br><br>
-  <h2>:hammer_and_wrench: Major Projects :hammer_and_wrench:</h2>
+  <h2>:hammer_and_wrench: Major Public Projects :hammer_and_wrench:</h2>
   - <img src="https://i.imgur.com/vpLwZKf.png" width="15"/> <a href="https://bit.ly/SwordOfSouls-UltimateGUI">UltimateGUI</a><br>
   - <img src="https://i.imgur.com/iuP7Z78.png" width="15"/> <a href="https://bit.ly/SwordOfSouls-ItemGUI">ItemGUI</a><br>
   - <img src="https://github.com/SwordOfSouls/Pong/blob/master/Pong/Icon.ico" width="15"/> <a href="https://github.com/SwordOfSouls/Pong">Pong</a><br>
