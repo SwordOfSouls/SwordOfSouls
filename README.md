@@ -1,8 +1,10 @@
 <div id="header" align="center">
   <h1>SwordOfSouls</h1>
   <img src="https://i.imgur.com/rSmT3uP.png" width="100"/>
-  <h1></h1>
+  <h2>6 years of progamming, 3 years Spigot</h2>
+   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+
   
   <h3 :hammer_and_wrench: Languages and Tools : </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
