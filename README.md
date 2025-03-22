@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>SwordOfSouls</h1>
   <img src="https://i.imgur.com/rSmT3uP.png" width="100"/>
-  <h2>8 years of programming, 4 years Spigot</h2>
+  <h2>10 years of programming</h2>
    <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
